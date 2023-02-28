@@ -1,7 +1,6 @@
 ### Hello, i am caio povill! 😙
 
-#### I'll use this github to post data analysis, python codes, tricks and everything about machine learning.
-
+#### I'll use this github to post data projects, python codes, tricks and everything about data engineering.
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiopovill&show_icons=true&theme=radical)
